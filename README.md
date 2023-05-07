@@ -69,10 +69,3 @@ See `scripts` directory for operational parameters for `HLAN`, `HA-GRU` and `HAN
 
 
 
-## Code Changes
-
-### Refactoring of HAN Class
-
-* Original source: `Explainable-Automated-Medical-Coding/HLAN/HAN_model_dynamic.py`
-* Refactored source: `HLAN/HAN_model_dynamic.py`
-
