@@ -67,5 +67,3 @@ See `scripts` directory for operational parameters for `HLAN`, `HA-GRU` and `HAN
 * `scripts/HA-GRU.sh`
 * `scripts/HAN.sh`
 
-
-
