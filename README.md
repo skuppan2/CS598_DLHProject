@@ -1,5 +1,5 @@
 # CS598DL4H
-## Explainable Automated Coding of Clinical Notes using Hierarchical Label-wise Attention Networks and Label Embedding
+### Explainable Automated Coding of Clinical Notes using Hierarchical Label-wise Attention Networks and Label Embedding
                                     Initialisation  for CS598 DL4H in Spring 2023
 
 
@@ -7,7 +7,7 @@
 
 Use `caml-mimic/env/bin/python` as the kernel for [caml-mimic/notebooks/dataproc_mimic_III.ipynb](caml-mimic/notebooks/dataproc_mimic_III.ipynb).
 
-#### Explainable-Automated-Medical-Coding
+## Explainable-Automated-Medical-Coding
 
 ```sh
 pyenv local 3.7.11
