@@ -1,5 +1,5 @@
 # CS598DL4H
-## Explainable Automated Coding of Clinical Notes using
+            ## Explainable Automated Coding of Clinical Notes using
 Hierarchical Label-wise Attention Networks and Label Embedding
 Initialisation  for CS598 DL4H in Spring 2023
 
