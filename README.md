@@ -158,4 +158,9 @@ sent_split=False
 ```
 
 ## Table of results
-TODO
+
+# Expected result
+![DLH_Expected_Result](https://user-images.githubusercontent.com/110275249/236979834-13235542-16af-4c81-b758-1771814a3040.png)
+# Expected result
+![DLH_Actual_Result](https://user-images.githubusercontent.com/110275249/236979855-40d0bc87-815b-4a8b-b23d-40faa92c3d9f.png)
+
