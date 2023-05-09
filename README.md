@@ -162,7 +162,8 @@ sent_split=False
 #### Expected result as per paper
 ![DLH_Expected_Result](https://user-images.githubusercontent.com/110275249/236979834-13235542-16af-4c81-b758-1771814a3040.png)
 #### Actual result as recreated
-![DLH_Actual_Result](https://user-images.githubusercontent.com/110275249/23979855-40d0bc87-815b-4a8b-b23d-40faa92c3d9f.png)
+![DLH_Actual_Result](https://user-images.githubusercontent.com/110275249/236980463-991446fd-76c0-4bfd-97af-4b8b0cbaf6ed.png)
+
 #### HLAN Attention Visualization
 <img width="802" alt="HLAN-Attention" src="https://user-images.githubusercontent.com/110275249/236980090-5a18c9d3-af72-4a67-97a6-bf8262a3f5b1.png">
 
